@@ -64,11 +64,11 @@ global.pgopay = '08XXXXXXXXXX' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
 global.ppulsa = '08XXXXXXXXXX' //telkomsel
 global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '94770557323'
-global.nomorown = '9478479430'
+global.nomorown = '94784749430'
 global.namebot = '🎀 𝒬𝓊𝑒𝑒𝓃 𝑅𝑒𝑒𝓂𝒶𝒽 🎀'
 global.nameown = '💗 A̳s̳h̳e̳n̳ ̳R̳i̳d̳e̳r̳ 🇱🇰'
 
