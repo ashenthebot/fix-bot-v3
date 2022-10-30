@@ -144,7 +144,7 @@ global.wm3 = '⫹⫺ 🎀 𝒬𝓊𝑒𝑒𝓃 𝑅𝑒𝑒𝓂𝒶𝒽 🎀  '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺🎀 𝒬𝓊𝑒𝑒𝓃 𝑅𝑒𝑒𝓂𝒶𝒽 🎀  | By 💗 A̳s̳h̳e̳n̳ ̳R̳i̳d̳e̳r̳ 🇱🇰`
-global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ @𝖗𝖎𝖉𝖊𝖗𝖇𝖔𝖙1
+global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ @𝖗𝖎𝖉𝖊𝖗𝖇𝖔𝖙1'
 global.author = '                「 A̳s̳h̳e̳n̳ ̳R̳i̳d̳e̳r̳ あ」'
 
 /*Fake*/
